@@ -41,7 +41,7 @@ if __name__ == '__main__':
     parser.add_argument('--out_type', type=str, default='spike')
     parser.add_argument('--gamma', type=float, default=0.9)
     parser.add_argument('--nonneg', type=str, default='abs')
-    parser.add_argument('--dir_prefix', type=str, default='./nodp')
+    parser.add_argument('--dir_prefix', type=str, default='../nmnistout')
     parser.add_argument('--data_dir', type=str, default='../nmnistdata')
     
     config = parser.parse_args()
