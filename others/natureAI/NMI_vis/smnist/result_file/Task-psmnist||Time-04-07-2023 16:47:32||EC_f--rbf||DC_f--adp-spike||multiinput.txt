@@ -1,0 +1,69 @@
+Task-psmnist||Time-04-07-2023 16:47:32||EC_f--rbf||DC_f--adp-spike||multiinput
+network: [64 256]
+learning_rate: 0.001
+batch_size: 32
+
+ =========== Result ======== 
+epoch: 0 Loss: 0.5463265776634216. Tr Accuracy: 74.48166666666667. Ts Accuracy: 83.16. Best: 80
+epoch: 1 Loss: 0.4219115972518921. Tr Accuracy: 83.76. Ts Accuracy: 84.93. Best: 84.93
+epoch: 2 Loss: 0.3713383078575134. Tr Accuracy: 85.14. Ts Accuracy: 85.57. Best: 85.57
+epoch: 3 Loss: 0.37405925989151. Tr Accuracy: 86.12333333333333. Ts Accuracy: 85.44. Best: 85.57
+epoch: 4 Loss: 0.3693396747112274. Tr Accuracy: 86.73666666666666. Ts Accuracy: 86.22. Best: 86.22
+epoch: 5 Loss: 0.36464977264404297. Tr Accuracy: 87.27. Ts Accuracy: 86.26. Best: 86.26
+epoch: 6 Loss: 0.3425181806087494. Tr Accuracy: 87.50833333333334. Ts Accuracy: 86.67. Best: 86.67
+epoch: 7 Loss: 0.3585548996925354. Tr Accuracy: 88.14166666666667. Ts Accuracy: 86.43. Best: 86.67
+epoch: 8 Loss: 0.2675096094608307. Tr Accuracy: 88.31833333333333. Ts Accuracy: 87.17. Best: 87.17
+epoch: 9 Loss: 0.328086793422699. Tr Accuracy: 88.595. Ts Accuracy: 87.22. Best: 87.22
+epoch: 10 Loss: 0.20200322568416595. Tr Accuracy: 88.92. Ts Accuracy: 87.18. Best: 87.22
+epoch: 11 Loss: 0.21893547475337982. Tr Accuracy: 89.09666666666666. Ts Accuracy: 87.43. Best: 87.43
+epoch: 12 Loss: 0.2705187201499939. Tr Accuracy: 89.03333333333333. Ts Accuracy: 87.69. Best: 87.69
+epoch: 13 Loss: 0.3073726296424866. Tr Accuracy: 89.31. Ts Accuracy: 87.62. Best: 87.69
+epoch: 14 Loss: 0.20918314158916473. Tr Accuracy: 89.55833333333334. Ts Accuracy: 87.74. Best: 87.74
+epoch: 15 Loss: 0.2567395865917206. Tr Accuracy: 89.70833333333333. Ts Accuracy: 87.64. Best: 87.74
+epoch: 16 Loss: 0.21746693551540375. Tr Accuracy: 89.75333333333333. Ts Accuracy: 87.68. Best: 87.74
+epoch: 17 Loss: 0.2716575562953949. Tr Accuracy: 89.93. Ts Accuracy: 87.54. Best: 87.74
+epoch: 18 Loss: 0.25882038474082947. Tr Accuracy: 90.00666666666666. Ts Accuracy: 87.09. Best: 87.74
+epoch: 19 Loss: 0.2510174512863159. Tr Accuracy: 89.975. Ts Accuracy: 87.78. Best: 87.78
+epoch: 20 Loss: 0.2167453020811081. Tr Accuracy: 89.98833333333333. Ts Accuracy: 87.85. Best: 87.85
+epoch: 21 Loss: 0.19821466505527496. Tr Accuracy: 90.29333333333334. Ts Accuracy: 87.93. Best: 87.93
+epoch: 22 Loss: 0.2560659348964691. Tr Accuracy: 90.35. Ts Accuracy: 88.22. Best: 88.22
+epoch: 23 Loss: 0.22112631797790527. Tr Accuracy: 90.43833333333333. Ts Accuracy: 87.96. Best: 88.22
+epoch: 24 Loss: 0.21211452782154083. Tr Accuracy: 90.34666666666666. Ts Accuracy: 87.74. Best: 88.22
+epoch: 25 Loss: 0.17221149802207947. Tr Accuracy: 90.44166666666666. Ts Accuracy: 87.73. Best: 88.22
+epoch: 26 Loss: 0.19193965196609497. Tr Accuracy: 90.56. Ts Accuracy: 88.18. Best: 88.22
+epoch: 27 Loss: 0.2078154981136322. Tr Accuracy: 90.65833333333333. Ts Accuracy: 88.17. Best: 88.22
+epoch: 28 Loss: 0.17491121590137482. Tr Accuracy: 90.645. Ts Accuracy: 88.54. Best: 88.54
+epoch: 29 Loss: 0.17948278784751892. Tr Accuracy: 90.65166666666667. Ts Accuracy: 88.15. Best: 88.54
+epoch: 30 Loss: 0.19223612546920776. Tr Accuracy: 90.625. Ts Accuracy: 88.06. Best: 88.54
+epoch: 31 Loss: 0.22544680535793304. Tr Accuracy: 90.55833333333334. Ts Accuracy: 88.23. Best: 88.54
+epoch: 32 Loss: 0.22303448617458344. Tr Accuracy: 90.64166666666667. Ts Accuracy: 88.13. Best: 88.54
+epoch: 33 Loss: 0.26991894841194153. Tr Accuracy: 90.63833333333334. Ts Accuracy: 87.88. Best: 88.54
+epoch: 34 Loss: 0.2082783728837967. Tr Accuracy: 90.56333333333333. Ts Accuracy: 88.16. Best: 88.54
+epoch: 35 Loss: 0.2313624769449234. Tr Accuracy: 90.66. Ts Accuracy: 88.5. Best: 88.54
+epoch: 36 Loss: 0.19479340314865112. Tr Accuracy: 90.65333333333334. Ts Accuracy: 88.21. Best: 88.54
+epoch: 37 Loss: 0.156273752450943. Tr Accuracy: 90.78666666666666. Ts Accuracy: 88.11. Best: 88.54
+epoch: 38 Loss: 0.2122814953327179. Tr Accuracy: 90.825. Ts Accuracy: 88.23. Best: 88.54
+epoch: 39 Loss: 0.24016591906547546. Tr Accuracy: 90.83666666666667. Ts Accuracy: 88.39. Best: 88.54
+epoch: 40 Loss: 0.21616508066654205. Tr Accuracy: 90.785. Ts Accuracy: 88.28. Best: 88.54
+epoch: 41 Loss: 0.19696848094463348. Tr Accuracy: 90.88833333333334. Ts Accuracy: 88.31. Best: 88.54
+epoch: 42 Loss: 0.23030056059360504. Tr Accuracy: 90.765. Ts Accuracy: 88.45. Best: 88.54
+epoch: 43 Loss: 0.22707721590995789. Tr Accuracy: 90.45333333333333. Ts Accuracy: 88.26. Best: 88.54
+epoch: 44 Loss: 0.24097028374671936. Tr Accuracy: 90.58333333333333. Ts Accuracy: 87.64. Best: 88.54
+epoch: 45 Loss: 0.19725251197814941. Tr Accuracy: 90.83833333333334. Ts Accuracy: 88.2. Best: 88.54
+epoch: 46 Loss: 0.2241056114435196. Tr Accuracy: 90.86166666666666. Ts Accuracy: 88.46. Best: 88.54
+epoch: 47 Loss: 0.10281606763601303. Tr Accuracy: 90.92833333333333. Ts Accuracy: 88.49. Best: 88.54
+epoch: 48 Loss: 0.31703808903694153. Tr Accuracy: 90.935. Ts Accuracy: 88.56. Best: 88.56
+epoch: 49 Loss: 0.18079331517219543. Tr Accuracy: 90.915. Ts Accuracy: 88.6. Best: 88.6
+epoch: 50 Loss: 0.19476939737796783. Tr Accuracy: 90.89666666666666. Ts Accuracy: 88.31. Best: 88.6
+epoch: 51 Loss: 0.17590202391147614. Tr Accuracy: 90.88333333333334. Ts Accuracy: 88.37. Best: 88.6
+epoch: 52 Loss: 0.2687307298183441. Tr Accuracy: 90.61833333333334. Ts Accuracy: 87.89. Best: 88.6
+epoch: 53 Loss: 0.2515602707862854. Tr Accuracy: 90.48833333333333. Ts Accuracy: 88.41. Best: 88.6
+epoch: 54 Loss: 0.1788129210472107. Tr Accuracy: 90.77333333333333. Ts Accuracy: 88.64. Best: 88.64
+epoch: 55 Loss: 0.20401141047477722. Tr Accuracy: 90.91166666666666. Ts Accuracy: 88.68. Best: 88.68
+epoch: 56 Loss: 0.25071755051612854. Tr Accuracy: 90.93333333333334. Ts Accuracy: 88.61. Best: 88.68
+epoch: 57 Loss: 0.2182675153017044. Tr Accuracy: 90.885. Ts Accuracy: 88.6. Best: 88.68
+epoch: 58 Loss: 0.16213443875312805. Tr Accuracy: 90.91333333333333. Ts Accuracy: 88.55. Best: 88.68
+epoch: 59 Loss: 0.2376028150320053. Tr Accuracy: 90.92. Ts Accuracy: 88.68. Best: 88.68
+epoch: 60 Loss: 0.15111035108566284. Tr Accuracy: 90.87166666666667. Ts Accuracy: 88.4. Best: 88.68
+epoch: 61 Loss: 0.20000246167182922. Tr Accuracy: 90.72666666666667. Ts Accuracy: 88.58. Best: 88.68
+epoch: 62 Loss: 0.1327379047870636. Tr Accuracy: 90.66333333333333. Ts Accuracy: 88.11. Best: 88.68
