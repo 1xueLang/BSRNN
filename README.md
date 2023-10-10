@@ -12,3 +12,9 @@ python mnist.py
 cd nmnist
 
 python main.py
+
+## speechdigit
+
+cd speechdigit
+
+python sdigit.py
